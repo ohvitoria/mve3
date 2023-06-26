@@ -1,0 +1,17 @@
+.logo{
+    width: 300px;
+    height: 300px;
+}
+.cabeçalho{
+    display: inline-flex;
+}
+    
+
+.nome-empresa{
+    font-family: 'Tourney', cursive;
+    text-align: center;
+    font-weight: 90px;
+    font-size: 60px;
+    padding: 30px;
+    margin: 200;
+}
